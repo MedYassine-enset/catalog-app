@@ -1,0 +1,34 @@
+{
+  "categories": [
+
+  ],
+  "products":[
+    {
+      "id": 1,
+      "name" : "Computer",
+      "price" : 6000,
+      "promotion": false,
+      "stars": 5,
+      "image": "images/1.jpg",
+      "description" : "Computer Computer Computer Computer"
+    },
+    {
+      "id": 2,
+      "name" : "Printer",
+      "price" : 1200,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/2.jpg",
+      "description" : "Printer Printer Printer"
+    },
+    {
+      "id": 3,
+      "name" : "Smart phone",
+      "price" : 2000,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/3.jpg",
+      "description" : "Smart phone Smart phone Smart phone Smart phone"
+    }
+  ]
+}
